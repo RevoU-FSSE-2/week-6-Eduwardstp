@@ -38,19 +38,22 @@ This is a Docker installation for Windows Operating Systems:
 ## Docker Verification
 
 Docker has verified.
-![alt text]()
+![alt text](https://github.com/RevoU-FSSE-2/week-6-Eduwardstp/blob/main/assets/screenshot/docker-verification.png)
 
 ## Dockerizing Node.js Project
 
 1. Create Dockerfile to Creating a Docker Iamges for your application.
-![alt text]()
+![alt text](https://github.com/RevoU-FSSE-2/week-6-Eduwardstp/blob/main/assets/screenshot/create-dockerfile.png)
 
 2. Build the image with command: "docker build . -t your_image_name" (without "), by The Terminal.
-![alt text]()
+![alt text](https://github.com/RevoU-FSSE-2/week-6-Eduwardstp/blob/main/assets/screenshot/build-images-docker.png)
 
 3. Run the image with command: "docker run -p "your_localport":"app_port" your_image_name:"verion_your_image" (without "), by The Terminal.
-![alt text]()
+![alt text](https://github.com/RevoU-FSSE-2/week-6-Eduwardstp/blob/main/assets/screenshot/running-docker.png)
 
 4. Finished, The Container has successfully created!
-![alt text]()
+![alt text](https://github.com/RevoU-FSSE-2/week-6-Eduwardstp/blob/main/assets/screenshot/container-docker-running.png)
+
+5. Result
+![alt text](https://github.com/RevoU-FSSE-2/week-6-Eduwardstp/blob/main/assets/screenshot/localhost.png)
 
