@@ -36,8 +36,6 @@ This is a Docker installation for Windows Operating Systems:
 12. Docker has successfully created! ![alt text](https://github.com/RevoU-FSSE-2/week-6-Eduwardstp/blob/main/assets/screenshot/11-docker-installation-complete.png)
 
 ## Docker Verification
-
-Docker has verified.
 ![alt text](https://github.com/RevoU-FSSE-2/week-6-Eduwardstp/blob/main/assets/screenshot/docker-verification.png)
 
 ## Dockerizing Node.js Project
