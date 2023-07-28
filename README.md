@@ -15,6 +15,7 @@ This is a Docker installation for Windows Operating Systems:
 
 2. Click Download Docker for Windows.
 ![alt text](https://github.com/RevoU-FSSE-2/week-6-Eduwardstp/blob/main/assets/screenshot/02-download-docker.png)
+
 3. Run Docker Installer.
 
 4. Installation Process.
