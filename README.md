@@ -17,7 +17,7 @@ This is a Docker installation for Windows Operating Systems:
 
 3. Run Docker Installer. ![alt text](https://github.com/RevoU-FSSE-2/week-6-Eduwardstp/blob/main/assets/screenshot/03-docker-installer.png)
 
-4. Installation Process. ![alt text](https://github.com/RevoU-FSSE-2/week-6-Eduwardstp/blob/main/assets/screenshot/05-installation-succeeded.png)
+4. Installation Process. ![alt text](https://github.com/RevoU-FSSE-2/week-6-Eduwardstp/blob/main/assets/screenshot/04-installation-process.png)
 
 5. Installation Success. ![alt text](https://github.com/RevoU-FSSE-2/week-6-Eduwardstp/blob/main/assets/screenshot/05-installation-succeeded.png)
 
