@@ -13,8 +13,7 @@ Assignment Description.
 This is a Docker installation for Windows Operating Systems:
 1. Download The Latest Version Docker on official website here https://www.docker.com/
 
-2. Click Download Docker for Windows.
-![alt text](https://github.com/RevoU-FSSE-2/week-6-Eduwardstp/blob/main/assets/screenshot/02-download-docker.png)
+2. Click Download Docker for Windows. ![alt text](https://github.com/RevoU-FSSE-2/week-6-Eduwardstp/blob/main/assets/screenshot/02-download-docker.png)
 
 3. Run Docker Installer.
 ![alt text](https://github.com/RevoU-FSSE-2/week-6-Eduwardstp/blob/main/assets/screenshot/03-docker-installer.png)
